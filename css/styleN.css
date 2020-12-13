@@ -1,0 +1,10 @@
+.nav {
+	background-color: aquamarine;
+}
+
+#pix {
+	background-image: url('/Assets/Images/PFDBgnd.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
