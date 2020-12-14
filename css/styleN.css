@@ -4,3 +4,15 @@ body {
 	background-attachment: fixed;
 	background-size: cover;
 }
+
+.form-label {
+	color:#dee2e6;
+	font-size: large;
+	font-weight: bold;
+}
+
+.h1-responsive{
+	color:#dee2e6;
+	font-size: xx-large;
+	font-weight:900;
+}
