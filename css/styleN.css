@@ -22,7 +22,15 @@ body {
 	width: auto;
 }
 
-.about, .nav-link{
+.about{
 	color: aliceblue;
 	justify-content: right;
+}
+
+.abouthead{
+	color:aliceblue;
+}
+
+.nav-link{
+	color: black;
 }
