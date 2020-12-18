@@ -18,6 +18,8 @@ body {
 }
 
 .img-thumbnail{
+	/*height: 300px;
+	width: auto;*/
 	height: 300px;
 	width: auto;
 }
@@ -33,5 +35,14 @@ body {
 
 .nav-link{
 	color: black;
+}
+
+/*'Flexbot basics'*/
+.container{
+	display: flex;
+	flex-flow: column wrap;
+	align-self: auto;
+	/*align-items: baseline;*/
+	/*align-content: space-evenly;*/
 }
 
